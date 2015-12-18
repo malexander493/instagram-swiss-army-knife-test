@@ -15,7 +15,8 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 ## <a name="how-to-install">How to Install</a> [&#8593;](#toc)
 
 * Download and extract or clone the repository using
-git clone https://github.com/malexander493/instagram-swiss-army-knife-test.git
+
+<code>git clone https://github.com/malexander493/instagram-swiss-army-knife-test.git</code>
 * Create TSAK_CONF environment variable pointing to the downloaded folder.
 * Edit tsak.properties file and fill up with required Instagram API key.
 * Build with maven: <code>mvn clean package</code>
