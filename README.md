@@ -27,7 +27,7 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 * Run 'isak -help' to display the help index.
 * Run 'isak --help <command>' to display help for specific commands.
 
-Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife-test/wiki/commands-usage) for more details.
+Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife-test/wiki/Commands-Usage) for more details.
 
 ## <a name="license">License</a> [&#8593;](#toc)
 
