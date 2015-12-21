@@ -26,7 +26,7 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 
 ## <a name="isak-commands">ISAK Commands</a> [&#8593;](#toc)
 * Run 'isak -help' to display the help index.
-* Run 'isak --help <command>' to display help for specific commands.
+* Run 'isak --help &lt;command&gt;' to display help for specific commands.
 
 Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife-test/wiki/Commands-Usage) for more details.
 
