@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>org.orbit.soft</groupId>
+    <groupId>org.projectspinoza</groupId>
     <artifactId>isak</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
@@ -66,11 +66,10 @@
     </properties>
     <licenses>
         <license>
-            <name>GNU GENERAL PUBLIC LICENSE, Version 3</name>
-            <url>https://www.gnu.org/licenses/gpl.txt</url>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
             <distribution>repo</distribution>
-            <comments>The GNU General Public License is a free, copyleft license for
-                software and other kinds of works.</comments>
+            <comments>A business-friendly OSS license</comments>
         </license>
     </licenses>
     
@@ -111,7 +110,7 @@
                         <manifest>
                             <!--<addClasspath>true</addClasspath>-->
                             <!--<classpathPrefix>lib/</classpathPrefix>-->
-                            <mainClass>org.orbit.soft.commandbox.Main</mainClass>
+                            <mainClass>org.projectspinoza.isak.commandbox.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

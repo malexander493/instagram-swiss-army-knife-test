@@ -5,7 +5,6 @@ Instagram swiss army knife is a command line tool to dump Instagram data.
 * [Introduction](#introduction)
 * [How to Install](#how-to-install)
 * [ISAK Commands](#isak-commands)
-* [Java Docs](#java-docs)
 * [License](#license)
 
 ## <a name="introduction">Introduction</a> [&#8593;](#toc)
@@ -16,9 +15,8 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 ## <a name="how-to-install">How to Install</a> [&#8593;](#toc)
 
 * Download and extract or clone the repository using
-
-<code>git clone https://github.com/malexander493/instagram-swiss-army-knife-test.git</code>
-* Create ISAK_CONF environment variable pointing to the downloaded folder.
+git clone https://github.com/malexander493/instagram-swiss-army-knife-test.git
+* Create TSAK_CONF environment variable pointing to the downloaded folder.
 * Edit tsak.properties file and fill up with required Instagram API key.
 * Build with maven: <code>mvn clean package</code>
 * <code>cd target</code>
@@ -26,13 +24,9 @@ It is built on [jInstagram](https://github.com/sachin-handiekar/jInstagram).
 
 ## <a name="isak-commands">ISAK Commands</a> [&#8593;](#toc)
 * Run 'isak -help' to display the help index.
-* Run 'isak --help &lt;command&gt;' to display help for specific commands.
+* Run 'isak --help <command>' to display help for specific commands.
 
-Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife-test/wiki/Commands-Usage) for more details.
-
-## <a name="java-docs">JAVA DOCS</a> [&#8593;](#toc)
-JavaDoc’s are available [here](http://malexander493.github.io/instagram-swiss-army-knife-test/)
-
+Please see the [Commands Usage](https://github.com/malexander493/instagram-swiss-army-knife-test/wiki/commands-usage) for more details.
 
 ## <a name="license">License</a> [&#8593;](#toc)
 
